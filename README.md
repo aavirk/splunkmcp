@@ -31,8 +31,11 @@ pip install -r requirements.txt
 ```
 
 4. **Create a `.env` file in the project directory:**
+
+Copy the example environment file:
+
 ```bash
-touch .env
+cp .env-example-sdwan .env
 ```
 
 5. **Update the `.env` file with your Splunk credentials:**
