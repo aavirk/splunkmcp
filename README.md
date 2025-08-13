@@ -15,8 +15,8 @@ Splunk ITSI MCP is a Python-based MCP (Model Context Protocol) server for Splunk
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-repo/splunk-itsi-mcp.git
-cd splunk-itsi-mcp
+git clone https://github.com/aavirk/splunkmcp.git
+cd splunkmcp
 ```
 
 2. **Create a virtual environment and activate it:**
